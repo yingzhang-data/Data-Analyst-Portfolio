@@ -1,7 +1,7 @@
 # Data Analyst Portfolio
 ## About 
 
-**Welcome to my portfolio!** I am Ying, and this repository showcases my data analysis projects, highlighting my expertise in data wrangling, exploration, statistical analysis, and visualization. I primatily work with Python and SQL, leveraging libraries like Pandas, Seaborn, Matplotlib, and Scikit-learn. Explore my projects to see how I extract insights and drive data-driven decisions!
+**Welcome to my portfolio!** I am Ying, and this repository showcases my data analysis projects, highlighting my expertise in data wrangling, exploration, statistical analysis, and visualization. I primarily work with Python and SQL, leveraging libraries like Pandas, Seaborn, Matplotlib, and Scikit-learn. Explore my projects to see how I extract insights and drive data-driven decisions!
 
 
 ## Portfolio Projects
