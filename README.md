@@ -17,7 +17,7 @@ Skills: Python, Data Wrangling & Preprocessing, Clustering & Segmentation, Data 
 
 ### Telco Customer Churn Prediction
 
-Code: [Customer Churn Prediction](
+Code: [Customer Churn Prediction](https://github.com/yingzhang-da/PortfolioProjects/blob/main/Telecom%20Customer%20Churn%20Project.ipynb)
 
 Description: Customer churn is a critical challenge for telecom companies. This project analyzes customer behavior, identifies key features influencing churn, and develops a predictive model to detect customers at risk of leaving.
 
