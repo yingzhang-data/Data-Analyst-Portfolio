@@ -1,3 +1,4 @@
+
 # Data Analyst Portfolio
 ## About 
 
@@ -5,6 +6,18 @@
 
 
 ## Portfolio Projects
+
+
+### Olist E-Commerce Performance and Customers Insights 
+
+Full Report: [Olist E-Commerce Performance and Customers Insights](https://github.com/yingzhang-da/Olist_E-Commerce_Data_Analysis)
+Tableau Dashboard: [Olist E-Commerce Performance and Customers Insights](https://public.tableau.com/app/profile/ying.zhang2739/viz/OlistE-CommercePerformanceandCustomersInsights/KPIsSummary)
+Stakeholder Presentation: [Olist E-Commerce Performance and Customers Insights](https://docs.google.com/presentation/d/1BANIRmxoFIX8FTlIWr5cwrdrE1XaBONxXXgfg82vAS0/edit?usp=sharing)
+
+Description: The project involved developing an interactive Tableau dashboard integrated with MySQL database to visualize key metrics from the Olist e-commerce dataset. The dashboard enables stakeholders to monitor sales performance and analyze customer behavior across multiple dimensions. By identifying challenges and growth opportunities, it delivers actionable insights to enhance platform performance and drive data-driven decision-making
+
+Skills: MySQL, Relational Data Modeling, Tableau, Excel(Power Query) 
+
 
 ### RFM Analysis for Customer Segmentation
 
