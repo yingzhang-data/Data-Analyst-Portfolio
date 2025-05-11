@@ -28,6 +28,16 @@ Description: This project aims to categorize retail customers based on their pur
 Skills: Python, Data Wrangling & Preprocessing, Clustering & Segmentation, Data Visualization, Feature Engineering
 
 
+### Walmart Sales Forecasting and Exploratory Data Analysis (In Progress)
+
+Description:
+
+
+Skills & Tools: Python,Time Series Analysis, Machine Learning (upcoming: XGBoost, Random Forest, etc.), Feature Engineering, Data Visualization, Sales Forecasting, Retail Analytics
+
+
+
+
 ### Telco Customer Churn Prediction
 
 Code: [Customer Churn Prediction](https://github.com/yingzhang-da/PortfolioProjects/blob/main/Telecom%20Customer%20Churn%20Project.ipynb)
@@ -37,13 +47,7 @@ Description: Customer churn is a critical challenge for telecom companies. This 
 Skills: Data Wrangling & Preprocessing, Feature Selection & Engineering, Data Visualization, Machine Learning Models
 
 
-### Trending YouTube Video Statistics Data Cleaning Project
 
-Code: [Data Cleaning Project](https://github.com/yingzhang-da/PortfolioProjects/blob/main/Trending%20YouTube%20Video%20Statistics.ipynb)
-
-Description: This project involves cleaning and preprocessing a dataset of YouTube's top trending videos from various countries to prepare it for in-depth data analysis.
-
-Skills: Python, Data cleaning
 
 
 **More data analysis projects are on the way!**
