@@ -33,7 +33,7 @@ Skills: Python, Data Wrangling & Preprocessing, Clustering & Segmentation, Data 
 Description:
 
 
-Skills & Tools: Python,Time Series Analysis, Machine Learning (upcoming: XGBoost, Random Forest, etc.), Feature Engineering, Data Visualization, Sales Forecasting, Retail Analytics
+Skills & Tools: Python,Time Series Analysis, Machine Learning (XGBoost, Random Forest, etc.), Feature Engineering, Data Visualization, Sales Forecasting, Retail Analytics
 
 
 
