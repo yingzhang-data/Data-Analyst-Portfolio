@@ -28,14 +28,13 @@ Description: This project aims to categorize retail customers based on their pur
 Skills: Python, Data Wrangling & Preprocessing, Clustering & Segmentation, Data Visualization, Feature Engineering
 
 
-### Walmart Sales Forecasting and Exploratory Data Analysis (In Progress)
+### Walmart Sales Forecasting and Exploratory Data Analysis (Case Study)
 
-Description:
+Code: [Walmart Sales Forecasting](https://github.com/yingzhang-da/PortfolioProjects/blob/main/Warmart%20Sales%20Forecasting%20and%20Exploratory%20Data%20Analysis.ipynb)
 
+Description: This project aims to build a predictive model to forecast weekly department-level sales for each Walmart store using historical sales and external factors. Alongside forecasting, the project includes exploratory data analysis (EDA) to uncover patterns, seasonality, and the impact of key variables such as holidays, markdowns, temperature, fuel prices, and CPI.
 
-Skills & Tools: Python,Time Series Analysis, Machine Learning (XGBoost, Random Forest, etc.), Feature Engineering, Data Visualization, Sales Forecasting, Retail Analytics
-
-
+Skills & Tools: Python,Data preprocessing,Feature Engineering, Model tuning and validation (XGBoost, Random Forest, etc.), Data Visualization with Seaborn and Matplotlib, Sales Forecasting, Retail Analytics
 
 
 
