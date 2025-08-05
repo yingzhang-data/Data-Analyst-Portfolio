@@ -5,9 +5,15 @@
 **Welcome to my portfolio!** I am Ying, and this repository showcases my data analysis projects, highlighting my expertise in data wrangling, exploration, statistical analysis, and visualization. I primarily work with Python and SQL, leveraging libraries like Pandas, Seaborn, Matplotlib, and Scikit-learn. Explore my projects to see how I extract insights and drive data-driven decisions!
 
 ## Table of Contents
-- About
-- Portfolio Projects
-  - 
+* About
+* Portfolio Projects
+  * Power BI
+    * Sales Dashboard
+    * KPI Card
+  * Tableau --> Go to Tableau Public
+  * SQL
+  * Python
+  * Excel
 
 
 
