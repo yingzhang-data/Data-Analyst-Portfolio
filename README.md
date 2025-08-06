@@ -23,6 +23,7 @@
 
 ### Power BI
 * Sales Analysis Report [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYTJiZWFhNjItMDNiNy00MmVlLTg5MWYtMWU4NjdkMDc0Y2FjIiwidCI6ImZmZGU3MTU5LTVlMDAtNGEzNy1hN2NhLWIyMzRlODIzM2UxMiIsImMiOjEwfQ%3D%3D)
+* KPI Cards [Click Here](https://app.powerbi.com/view?r=eyJrIjoiOGNmZDM3OGMtYzZjOS00YzMzLThjODQtMDc3ODk3ZGI2NTY4IiwidCI6ImZmZGU3MTU5LTVlMDAtNGEzNy1hN2NhLWIyMzRlODIzM2UxMiIsImMiOjEwfQ%3D%3D)
 
 
 
