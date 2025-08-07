@@ -11,7 +11,7 @@ This portfolio is a space where I
 * Share what I’m learning
 * Apply data techniques to solve real world problems
 
-Feel free to explore my repositories and connect with me on [LinkedIn](insert-your-linkedin-url) or via email at [your-email@example.com]. I’m always open to feedback, collaboration, or new opportunities!
+Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/jasmine-ying-zhang/). I’m always open to feedback, collaboration, or new opportunities!
 
 
 ## Table of Contents
