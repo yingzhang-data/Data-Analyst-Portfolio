@@ -38,16 +38,19 @@ This project analyzes an Airline Loyalty Program with a focus on measuring the *
 
    **Objectives:**   
     * Prepare the data for Modeling
-    * Model the data for further analysis
-    * Visualize the data to identify the key finding
+    * Build a star schema model for analysis
+    * Visualize trends and identify the key findings
    
    **Data Source:** Maven Data Playground
 
-   **Skills:** **Power Query** (to clean and shape the data), **Data Modeling**(star schema), **DAX**, **Data Visualization**
+   **Skills:**
+    * **Power Query**: Data Cleaning and shaping
+    * **Data Modeling**: star schema design
+    * **DAX**: Calculations and measures
 
-2. **Sales Analysis Report** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYTJiZWFhNjItMDNiNy00MmVlLTg5MWYtMWU4NjdkMDc0Y2FjIiwidCI6ImZmZGU3MTU5LTVlMDAtNGEzNy1hN2NhLWIyMzRlODIzM2UxMiIsImMiOjEwfQ%3D%3D)
+3. **Sales Analysis Report** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYTJiZWFhNjItMDNiNy00MmVlLTg5MWYtMWU4NjdkMDc0Y2FjIiwidCI6ImZmZGU3MTU5LTVlMDAtNGEzNy1hN2NhLWIyMzRlODIzM2UxMiIsImMiOjEwfQ%3D%3D)
    
-3. **KPI Cards** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiOGNmZDM3OGMtYzZjOS00YzMzLThjODQtMDc3ODk3ZGI2NTY4IiwidCI6ImZmZGU3MTU5LTVlMDAtNGEzNy1hN2NhLWIyMzRlODIzM2UxMiIsImMiOjEwfQ%3D%3D)
+4. **KPI Cards** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiOGNmZDM3OGMtYzZjOS00YzMzLThjODQtMDc3ODk3ZGI2NTY4IiwidCI6ImZmZGU3MTU5LTVlMDAtNGEzNy1hN2NhLWIyMzRlODIzM2UxMiIsImMiOjEwfQ%3D%3D)
 
 ### SQL Projects
 
