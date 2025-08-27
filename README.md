@@ -54,8 +54,7 @@ This project analyzes an Airline Loyalty Program with a focus on measuring the *
 
 ### SQL Projects
 
-1. 
-
+1.
 
 2.Olist E-Commerce Performance and Customers Insights 
 
