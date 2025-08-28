@@ -23,7 +23,11 @@ Feel free to explore my repositories and connect with me on [LinkedIn](https://w
     * KPI Card
   * **Tableau** --> Go to Tableau Public
   * **SQL**
+    * Hospital Analytics
+    * Olist E-Commerce Performance and Customers Insights
   * **Python**
+    * RFM Analysis for Customer Segmentation
+    * Walmart Sales Forecasting and Exploratory Data Analysis (Case Study)
   * **Excel**
 
 
