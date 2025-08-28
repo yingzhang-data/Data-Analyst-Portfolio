@@ -15,12 +15,12 @@ Feel free to explore my repositories and connect with me on [LinkedIn](https://w
 
 
 ## Table of Contents
-* [**About**](#about)
-* [**Portfolio Projects**](#portfolio-projects)
-  * [**Power BI**](power-bi)
-    * [Airline Loyalty Program](#airline-loyalty-program)
-    * Sales Analysis Report
-    * KPI Card
+- [**About**](#about)
+- [**Portfolio Projects**](#portfolio-projects)
+   - [**Power BI**](power-bi)
+     - [Airline Loyalty Program](#airline-loyalty-program)
+     - [Sales Analysis Report](#sales-analysis-report)
+     - [KPI Card](#kpi-card)
   * **Tableau** --> Go to Tableau Public
   * **SQL**
     * Hospital Analytics
