@@ -16,7 +16,7 @@ Feel free to explore my repositories and connect with me on [LinkedIn](https://w
 
 ## Table of Contents
 * **About**
-* **Portfolio Projects**
+* [**Portfolio Projects**](#portfolio-projects)
   * **Power BI**
     * Airline Loyalty Program
     * Sales Analysis Report
@@ -29,7 +29,6 @@ Feel free to explore my repositories and connect with me on [LinkedIn](https://w
     * RFM Analysis for Customer Segmentation
     * Walmart Sales Forecasting and Exploratory Data Analysis (Case Study)
   * **Excel**
-
 
 
 
