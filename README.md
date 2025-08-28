@@ -54,9 +54,14 @@ This project analyzes an Airline Loyalty Program with a focus on measuring the *
 
 ### SQL Projects
 
-1.
+1. **Hospital Analytics**
+Code: [Hospital Analytics](https://github.com/yingzhang-data/Hospital-Analytics)
 
-2.Olist E-Commerce Performance and Customers Insights 
+Description: This project supports Massachusetts General Hospital's annual performance report by analyzing patient encounters, costs, insurance coverage, and behavioral trends to improve care delivery and optimize hospital operations.
+
+SQL Techniques: Used MySQL with Common Table Expressions (CTEs), window functions, and joins to analyze patient data, structure complex queries  
+
+2. **Olist E-Commerce Performance and Customers Insights**
 
 Full Report: [Click Here](https://github.com/yingzhang-da/Olist_E-Commerce_Data_Analysis)  
 Tableau Dashboard: [Click Here](https://public.tableau.com/app/profile/ying.zhang2739/viz/OlistE-CommercePerformanceandCustomersInsights/KPIsSummary)  
