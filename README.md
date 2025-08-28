@@ -15,10 +15,10 @@ Feel free to explore my repositories and connect with me on [LinkedIn](https://w
 
 
 ## Table of Contents
-* **About**
+* [**About**](#about)
 * [**Portfolio Projects**](#portfolio-projects)
-  * **Power BI**
-    * Airline Loyalty Program
+  * [**Power BI**](power-bi)
+    * [Airline Loyalty Program](#airline-loyalty-program)
     * Sales Analysis Report
     * KPI Card
   * **Tableau** --> Go to Tableau Public
