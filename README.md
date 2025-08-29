@@ -74,7 +74,7 @@ Description: The project involved developing an interactive Tableau dashboard in
 
 Skills: MySQL, Relational Data Modeling, Tableau, Excel(Power Query) 
 
-### Python Projects
+### Python
 
 1. **RFM Analysis for Customer Segmentation**
 
