@@ -2,7 +2,9 @@
 # Data Analyst Portfolio
 ## About 
 
-Hi, I'm Ying — Welcome to My Data Analyst Portfolio. With over six years of experience in the tech and retail industries, i am a data analyst passionate about transforming raw data into insights that drive strategic, impactful decisions. Over the years, I've developed a strong foundation in data analysis, data modeling, and data visualization, and I continue to grow my skills through hands-on projects and continuous learning.
+Hi, I'm Ying — Welcome to My Data Analyst Portfolio. 
+
+I am an experienced Data Analyst with over six years of expertise in the tech and retail industries, passionate about transforming raw data into insights that drive strategic, impactful decisions. Over the years, I've built a strong foundation in data analysis, data modeling, and data visualization, and I continue to grow my skill set through hands-on projects and continuous learning.
 
 My technical stack includes **Python**, **SQL**, **Power BI(DAX)**, **Tableau**, and **Excel** along with strong problem solving and communication skills. I enjoy uncovering patterns,optimizing processes, and transforming data into actionable stories — tackling each challenge with analytical precision and a clear focus on business impact. 
 
