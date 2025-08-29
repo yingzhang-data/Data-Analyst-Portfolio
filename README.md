@@ -60,6 +60,7 @@ This project analyzes an Airline Loyalty Program with a focus on measuring the *
 ### SQL 
 
 1. **Hospital Analytics**
+
 Code: [Hospital Analytics](https://github.com/yingzhang-data/Hospital-Analytics)
 
 Description: This project supports Massachusetts General Hospital's annual performance report by analyzing patient encounters, costs, insurance coverage, and behavioral trends to improve care delivery and optimize hospital operations.
