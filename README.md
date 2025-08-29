@@ -17,15 +17,15 @@ Feel free to explore my repositories and connect with me on [LinkedIn](https://w
 ## Table of Contents
 - [**About**](#about)
 - [**Portfolio Projects**](#portfolio-projects)
-   - [**Power BI**](power-bi)
-     - [Airline Loyalty Program](#airline-loyalty-program)
-     - [Sales Analysis Report](#sales-analysis-report)
-     - [KPI Card](#kpi-card)
+   - [**Power BI**](#power-bi)
+     - Airline Loyalty Program
+     - Sales Analysis Report
+     - KPI Card
   * **Tableau** --> Go to Tableau Public
-  * **SQL**
+  * [**SQL**](#sql)
     * Hospital Analytics
     * Olist E-Commerce Performance and Customers Insights
-  * **Python**
+  * [**Python**](#python)
     * RFM Analysis for Customer Segmentation
     * Walmart Sales Forecasting and Exploratory Data Analysis (Case Study)
   * **Excel**
@@ -55,7 +55,7 @@ This project analyzes an Airline Loyalty Program with a focus on measuring the *
    
 4. **KPI Cards** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiOGNmZDM3OGMtYzZjOS00YzMzLThjODQtMDc3ODk3ZGI2NTY4IiwidCI6ImZmZGU3MTU5LTVlMDAtNGEzNy1hN2NhLWIyMzRlODIzM2UxMiIsImMiOjEwfQ%3D%3D)
 
-### SQL Projects
+### SQL 
 
 1. **Hospital Analytics**
 Code: [Hospital Analytics](https://github.com/yingzhang-data/Hospital-Analytics)
