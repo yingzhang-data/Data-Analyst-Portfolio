@@ -42,17 +42,16 @@ Feel free to explore my repositories and connect with me, I’m always open to f
 
 This project analyzes an Airline Loyalty Program with a focus on measuring the **impact of a 2018 promotion campaign**.It provides insights into customer demographics, program performance, and member behavior, with the goal of understanding customer engagement and the effectiveness of promotional strategies.
 
-   **Objectives:**   
-    * Prepare the data for Modeling
-    * Build a star schema model for analysis
-    * Visualize trends and identify the key findings
+**Objectives:**  
+* Prepare the data for Modeling  
+* Build a star schema model for analysis
+* Visualize trends and identify the key findings
    
-   **Data Source:** Maven Data Playground
-
-   **Skills:**
-    * **Power Query**: Data Cleaning and shaping
-    * **Data Modeling**: star schema design
-    * **DAX**: Calculations and measures
+**Data Source:** Maven Data Playground  
+**Skills:**  
+* **Power Query**: Data Cleaning and shaping
+* **Data Modeling**: star schema design
+* **DAX**: Calculations and measures
 
 2. **Sales Analysis Report** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYTJiZWFhNjItMDNiNy00MmVlLTg5MWYtMWU4NjdkMDc0Y2FjIiwidCI6ImZmZGU3MTU5LTVlMDAtNGEzNy1hN2NhLWIyMzRlODIzM2UxMiIsImMiOjEwfQ%3D%3D)
    
