@@ -38,7 +38,8 @@ Feel free to explore my repositories and connect with me, I’m always open to f
 
 ### Power BI
 
-1. **Airline Loyalty Program** [Click Here]()  
+1. **Airline Loyalty Program** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiZGUxOTk0MGMtNmM5Ni00NTczLWFkMDUtNTUyNTk1MGQ3Y2U1IiwidCI6ImZmZGU3MTU5LTVlMDAtNGEzNy1hN2NhLWIyMzRlODIzM2UxMiIsImMiOjEwfQ%3D%3D)
+
 This project analyzes an Airline Loyalty Program with a focus on measuring the **impact of a 2018 promotion campaign**.It provides insights into customer demographics, program performance, and member behavior, with the goal of understanding customer engagement and the effectiveness of promotional strategies.
 
    **Objectives:**   
@@ -53,9 +54,9 @@ This project analyzes an Airline Loyalty Program with a focus on measuring the *
     * **Data Modeling**: star schema design
     * **DAX**: Calculations and measures
 
-3. **Sales Analysis Report** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYTJiZWFhNjItMDNiNy00MmVlLTg5MWYtMWU4NjdkMDc0Y2FjIiwidCI6ImZmZGU3MTU5LTVlMDAtNGEzNy1hN2NhLWIyMzRlODIzM2UxMiIsImMiOjEwfQ%3D%3D)
+2. **Sales Analysis Report** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYTJiZWFhNjItMDNiNy00MmVlLTg5MWYtMWU4NjdkMDc0Y2FjIiwidCI6ImZmZGU3MTU5LTVlMDAtNGEzNy1hN2NhLWIyMzRlODIzM2UxMiIsImMiOjEwfQ%3D%3D)
    
-4. **KPI Cards** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiOGNmZDM3OGMtYzZjOS00YzMzLThjODQtMDc3ODk3ZGI2NTY4IiwidCI6ImZmZGU3MTU5LTVlMDAtNGEzNy1hN2NhLWIyMzRlODIzM2UxMiIsImMiOjEwfQ%3D%3D)
+3. **KPI Cards** [Click Here](https://app.powerbi.com/view?r=eyJrIjoiOGNmZDM3OGMtYzZjOS00YzMzLThjODQtMDc3ODk3ZGI2NTY4IiwidCI6ImZmZGU3MTU5LTVlMDAtNGEzNy1hN2NhLWIyMzRlODIzM2UxMiIsImMiOjEwfQ%3D%3D)
 
 ### SQL 
 
