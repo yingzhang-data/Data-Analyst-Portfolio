@@ -2,16 +2,16 @@
 # Data Analyst Portfolio
 ## About 
 
-Hi, I'm Ying — Welcome to My Data Analyst Portfolio. With over six years of experience in the tech and retail industries, i am a data analyst passionate about transforming raw data into insights that drive strategic, impactful decisions. Over the years, I've developed a strong foundation in statistical analysis, data modeling, and data visualization, and I've continued to grow my skills through hands-on projects and continuous learning.
+Hi, I'm Ying — Welcome to My Data Analyst Portfolio. With over six years of experience in the tech and retail industries, i am a data analyst passionate about transforming raw data into insights that drive strategic, impactful decisions. Over the years, I've developed a strong foundation in data analysis, data modeling, and data visualization, and I continue to grow my skills through hands-on projects and continuous learning.
 
-My technical stack includes **Python**,**SQL**,**Power BI**,**Tableau**, and **Excel** along with strong problem solving and communication skills. I enjoy uncovering patterns,optimizing processes, and transforming data into actionable stories — tackling each challenge with both analytical precision and creative vision.
+My technical stack includes **Python**,**SQL**,**Power BI**,**Tableau**, and **Excel** along with strong problem solving and communication skills. I enjoy uncovering patterns,optimizing processes, and transforming data into actionable stories — tackling each challenge with analytical precision and a clear focus on business impact. 
 
 This portfolio is a space where I
 * Showcase my data projects
 * Share what I’m learning
 * Apply data techniques to solve real world problems
 
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/jasmine-ying-zhang/). I’m always open to feedback, collaboration, or new opportunities!
+Feel free to explore my repositories and connect with me, I’m always open to feedback, collaboration, or new opportunities!
 
 
 ## Table of Contents
